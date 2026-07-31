@@ -16,3 +16,5 @@ The multimodal diffusion pipeline, fusing eye-level D-N SVI, satellite NTL, and 
 ![samples_cfg_scale_9](https://github.com/user-attachments/assets/c3490850-4a96-42f9-942c-3989a241dc7b)
 ![samples_cfg_scale_9](https://github.com/user-attachments/assets/aa27fc78-ef52-40ee-a89d-044de93b3557)
 ![samples_cfg_scale_9](https://github.com/user-attachments/assets/ae70e8df-da87-4cb2-ae41-53c65c495705)
+<img width="780" height="520" alt="ScreenShot_2026-07-31_192253_806" src="https://github.com/user-attachments/assets/33db9da9-d676-4e33-af49-1d3388c4808e" />
+<img width="790" height="525" alt="ScreenShot_2026-07-31_192316_863" src="https://github.com/user-attachments/assets/70291b34-1400-4b3f-8482-e9c6fe0a0ce6" />
