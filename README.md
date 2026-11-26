@@ -11,6 +11,8 @@ multimodal GeoAI pipeline for illumination-aware nighttime street-view data synt
 The multimodal diffusion pipeline, fusing eye-level D-N SVI, satellite NTL, and visuofunctional metadata, is developed by Wang, Y., Xiang, Y., Ma, H. and Qiu, W. Please see the paper https://www.sciencedirect.com/science/article/pii/S1569843226000622; DOI: 10.1016/j.jag.2026.105146. The visuofunctional calculation method is inspired by Shen, Y. and Wu, Z. (2022), with the development copyright held by Wang, Y., and Xiang, Y. The original D-N SVI is collected by Ye, X., Li, X., Shults, V., A. and Wang, Y.
 D&N data sample: https://drive.google.com/drive/folders/1pF451JrQMhbssEIEXEKT_AEG2QlGuv9-?usp=sharing
 
+[Browse the samples included in this repository](https://github.com/NickoKai1008/NightDiff-Eclipses_Navigate_Territories_of_Justice/tree/main/samples) to see eight source and target image pairs and their corresponding prompts.
+
 ![samples_cfg_scale_9](https://github.com/user-attachments/assets/c1588b77-5932-4e71-bd1b-bec16dce10be)
 ![samples_cfg_scale_9](https://github.com/user-attachments/assets/9120b28b-b7d2-4714-9532-b7fd2198802e)
 ![samples_cfg_scale_9](https://github.com/user-attachments/assets/1b9ca16e-176f-4c98-aad9-753004ec12d6)
